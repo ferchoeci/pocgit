@@ -1,0 +1,5 @@
+[ {"firstname":"Max",
+"lastname":"Mule"}, {"firstname":"Molly", "lastname":"Mule"}
+]
+Another line to test POC GIT
+Otra linea
